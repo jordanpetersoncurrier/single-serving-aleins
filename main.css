@@ -8,12 +8,12 @@
   width: 90%;
   padding: 20%;
   border: 4px solid black;
-  margin: .5em auto;
+  margin: 1.5em auto;
 }
 
 .twins {
   width: 50%;
-  padding: 1em;
+  padding: 3em;
   border: 4px solid black;
   float: left;
 }
@@ -39,11 +39,9 @@ body {
 }
 
 .buttons {
-  margin-bottom: .5em;
-  font-family: 'VT323', monospace;
+  margin-bottom: 1.5em;
 }
 
 p:not(.intro) {
-  text-align: center;
-  font-family: 'VT323', monospace;
+  text-align: left;
 }
