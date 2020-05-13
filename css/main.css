@@ -46,6 +46,18 @@ p:not(.intro) {
   text-align: left;
 }
 
-.mx-2 {
-  margin-left-right:2
+.mx-3 {
+  margin-left-right:3
+}
+
+.my-3 {
+  margin-top-bottom: 3
+}
+
+.px-3 {
+  padding-left-right:3 
+}
+
+.py-3 {
+  padding-top-bottom: 3
 }
