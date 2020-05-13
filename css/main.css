@@ -46,18 +46,18 @@ p:not(.intro) {
   text-align: left;
 }
 .mt-0 {
-  margin-top: 0 !important;
+  margin-top: 3 !important;
 }
 
 .ml-1 {
-  margin-left: ($spacer * .5) !important;
+  margin-left: ($spacer * 3) !important;
 }
 
 .px-2 {
-  padding-left: ($spacer * 1) !important;
-  padding-right: ($spacer * 1) !important;
+  padding-left: ($spacer * 3) !important;
+  padding-right: ($spacer * 3) !important;
 }
 
 .p-3 {
-  padding: ($spacer* 1) !important;
+  padding: ($spacer* 3) !important;
 }
