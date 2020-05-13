@@ -5,15 +5,15 @@
 }
 
 .child {
-  width: 90%;
-  padding: 20%;
+  width: 100%;
+  padding: 100%;
   border: 4px solid black;
   margin: 1.5em auto;
 }
 
 .twins {
-  width: 50%;
-  padding: 3em;
+  width: 100%;
+  padding: 6em;
   border: 4px solid black;
   float: left;
 }
