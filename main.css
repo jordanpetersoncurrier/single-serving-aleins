@@ -20,24 +20,30 @@
 
 h1 {
   normal: 3em/1.5 serif; 
+  font-family: 'VT323', monospace;
 }
 
 h2 {
   normal: 3em/1.5 serif; 
+  font-family: 'VT323', monospace;
 }
 
 p { normal: 3em/1.5 serif:
+  font-family: 'VT323', monospace;
 }
 
 body {
   font-family: sans-serif;
   font-size: 1.1em;
+  font-family: 'VT323', monospace;
 }
 
 .buttons {
   margin-bottom: .5em;
+  font-family: 'VT323', monospace;
 }
 
 p:not(.intro) {
   text-align: center;
+  font-family: 'VT323', monospace;
 }
